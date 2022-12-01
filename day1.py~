@@ -1,3 +1,0 @@
-with open('Day1input.txt') as f:
-    cals = f.read().splitlines()
-print(cals)
